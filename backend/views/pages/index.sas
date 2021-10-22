@@ -1,0 +1,1 @@
+%render_template(template="&TEMPLATES/index.html");
